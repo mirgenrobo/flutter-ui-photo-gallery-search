@@ -1,4 +1,4 @@
-# Flutter UI challenge - Photo gallery search
+# Flutter UI challenge 1 - Photo gallery search
 > Creator: Qani Ajdini
 
 ## About
@@ -12,8 +12,8 @@ The inspiration video just shows the User Experience when searching for some cat
 
 ## Design
 
-![Design](../docs/inspiration.gif)
+![Design](./docs/inspiration.gif)
 
 ## Implementation
 
-![Implementation](../docs/app-running.gif)
+![Implementation](./docs/app-running.gif)
