@@ -1,5 +1,4 @@
 # Flutter UI challenge 1 - Photo gallery search
-> Creator: Qani Ajdini
 
 ## About
 This app is using Unsplash API as service to search the photos and Shared Preferences to register the favorite user photos in the cache memory. The model's classes were created to better represent an official development, the services classes are responsible for the boundaries of the system like the API and cache management library. The app is using BLOC pattern as an architectural pattern.
